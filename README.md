@@ -1,7 +1,6 @@
 # U.S Death Causes since 1900
 
 <img src='graph.png'>
-This graph was built based on [this](https://www.kaggle.com/cdc/nchs-death-rates-and-causes-of-death/data#) dataset.
 
 ## Setting up
 In order to use it, you will need to install the following libraries:
