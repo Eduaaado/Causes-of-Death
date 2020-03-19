@@ -30,4 +30,4 @@ plt.setp(
 fig1 = plt.gcf()
 plt.show()
 plt.draw()
-fig1.savefig('graph.png', dpi=500)
+fig1.savefig('graph.pdf', dpi=800)
